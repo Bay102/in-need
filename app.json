@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "23909521-70ea-4869-9141-3166d60a39c4"
+      }
+    },
+    "owner": "zakbay"
   }
 }
